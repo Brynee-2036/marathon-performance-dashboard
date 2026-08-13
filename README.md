@@ -1,6 +1,6 @@
 # marathon-performance-dashboard
 🏃 Marathon Performance Dashboard – KPI Definitions
-KPI	Definition	Calculation	Why It Matters
+KPI	              Definition	                       Calculation	                                   Why It Matters
 Weekly Mileage	Total distance completed each week.	Sum of all run distances (miles) by week.	Tracks training volume and progression toward marathon readiness.
 Average Pace	Average pace across all runs during the selected period.	Total moving time ÷ Total distance.	Measures overall running efficiency and fitness improvements.
 Long Run Distance	Longest single run completed during the week.	Maximum distance from a single activity.	Indicates progress toward marathon endurance goals.
