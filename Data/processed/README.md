@@ -1,11 +1,13 @@
-This folder contains the original, unmodified data used for the Marathon Performance Dashboard.
+# Processed Data
 
-Data may include:
-- Garmin running and training data
-- Race results
-- Training runs
-- Workout data
-- Pace, distance, heart rate, elevation, and time metrics
-- Other relevant marathon and HYROX performance data
+This folder contains cleaned, transformed, and analysis-ready datasets created from the raw marathon and training data.
 
-Raw data is preserved in its original format so that the analysis can be reproduced and audited.
+Processing may include:
+- Cleaning missing or inconsistent values
+- Standardizing dates and units
+- Calculating pace and performance metrics
+- Creating training and race categories
+- Combining datasets
+- Preparing data for Power BI, Tableau, and Python analysis
+
+The processed datasets serve as the primary source for the project's dashboards and analysis.
